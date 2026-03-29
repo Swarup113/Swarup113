@@ -7,24 +7,24 @@ I focus on applying AI to healthcare—particularly early disease detection, cli
 ### Research Interests & Skills
 <table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="flex" valign="top">
 
 #### Research Interests
 - Predictive Model Building 
 - AI-driven Disease Detection  
-- Clinical Data Analysis 
+- Clinical Data Analysis & Medical Imaging
 - NLP & LLMs in Healthcare  
 - Human-Computer Interaction 
 
 </td>
 
-<td width="50%" valign="top">
+<td width="flex" valign="top">
 
 #### Skills & Tools
-- Python,C,C++,Java,JS
-- PyTorch, TensorFlow  
-- Machine & Deep Learning  
-- Data Analysis/Visualization  
+- Python, PyTorch, TensorFlow  
+- Machine Learning & Deep Learning  
+- Data Analysis & Visualization
+- C, C++, Java, JavaScript, HTML, CSS
 - LaTeX & Scientific Writing  
 
 </td>
