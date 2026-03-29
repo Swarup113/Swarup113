@@ -57,16 +57,16 @@ Interested in research collaborations and industry applications of AI in healthc
 
 ---
 
-### GitHub Stats
+## GitHub Stats
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Swarup113&theme=city_lights&hide_border=false&include_all_commits=true&hide_title=true&v=1" alt="" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Swarup113&theme=highcontrast&title_color=fbff00&icon_color=fbff00&hide_border=false&include_all_commits=true&hide_title=true&v=106" alt="" />
       <br/>
-      <img src="https://streak-stats.demolab.com?user=Swarup113&theme=city_lights&hide_border=false" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=Swarup113&background=000000&border=ffffff&stroke=fbff00&ring=fbff00&fire=fbff00&currStreakNum=ffffff&currStreakLabel=fbff00&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" alt="GitHub Streak" />
     </td>
     <td>
-      <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=Swarup113&theme=city_lights&hide_border=false" alt="Most Used Languages" />
+      <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=Swarup113&theme=highcontrast&hide_border=false" alt="Most Used Languages" />
     </td>
   </tr>
 </table>
@@ -74,14 +74,14 @@ Interested in research collaborations and industry applications of AI in healthc
 ### Top Contributed Repo
 <table align="center">
   <tr>
-    <td><img src="https://gh-readme-stats.vercel.app/api/pin/?username=Swarup113&repo=NeuroTab&theme=city_lights" /></td>
-    <td><img src="https://gh-readme-stats.vercel.app/api/pin/?username=Swarup113&repo=Nudge&theme=city_lights" /></td>
+    <td><img src="https://gh-readme-stats.vercel.app/api/pin/?username=Swarup113&repo=NeuroTab&theme=highcontrast" /></td>
+    <td><img src="https://gh-readme-stats.vercel.app/api/pin/?username=Swarup113&repo=Nudge&theme=highcontrast" /></td>
   </tr>
   <tr>
-    <td><img src="https://gh-readme-stats.vercel.app/api/pin/?username=Swarup113&repo=kover&theme=city_lights" /></td>
-    <td><img src="https://gh-readme-stats.vercel.app/api/pin/?username=Swarup113&repo=Bangladeshi-Classic-Game-Hub&theme=city_lights" /></td>
+    <td><img src="https://gh-readme-stats.vercel.app/api/pin/?username=Swarup113&repo=kover&theme=highcontrast" /></td>
+    <td><img src="https://gh-readme-stats.vercel.app/api/pin/?username=Swarup113&repo=Bangladeshi-Classic-Game-Hub&theme=highcontrast" /></td>
   </tr>
 </table>
 
 ### Activity Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=Swarup113&bg_color=1d252c&color=718ca1&line=5ccfe6&point=ffffff&area=true&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Swarup113&bg_color=000000&color=ffffff&line=fbff00&point=ffffff&area=true&hide_border=false&border_color=ffffff)
