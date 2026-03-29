@@ -35,8 +35,8 @@ I focus on applying AI to healthcare—particularly early disease detection, cli
 ### Publications & Work 
 -  **4 IEEE Conference Papers Published**   
 -  **1 Journal Article Published (Web of Science / Scopus Indexed)**
--  **2 Papers are Under Review**
--  **3 Works are in Progress**  
+-  ***2 Papers are Under Review***
+-  ***3 Works are in Progress***  
 
 ---
 ### Goals
