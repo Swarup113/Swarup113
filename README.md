@@ -22,14 +22,18 @@ Beyond research, I am skilled in data analysis, machine learning model developme
 ---
 
 I am actively exploring research collaborations and industry partnerships to apply AI in solving real-world healthcare challenges. My objective is to harness cutting-edge deep learning techniques to enhance early diagnosis and intervention strategies.
-
----
-
 Feel free to connect with me to discuss research collaborations, AI innovations, or the latest trends in deep learning!
 
 ---
 ## Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SwarupDewanjee) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abeerdewanjee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dewanjee19) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dewanjee.swarup@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SwarupDewanjee)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abeerdewanjee)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dewanjee19)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dewanjee.swarup@gmail.com)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Swarup-Dewanjee)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=nlgsBIIAAAAJ&hl=en)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0004-6092-8473)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white)](https://swarup113.github.io/Portfolio/)
 
 ---
 ## Tech Stack:
@@ -37,17 +41,22 @@ Feel free to connect with me to discuss research collaborations, AI innovations,
 
 ---
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Swarup113&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Swarup113&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Swarup113&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Swarup113&theme=dark&hide_border=false&include_all_commits=true&cache_seconds=86400)
+
+![](https://streak-stats.demolab.com?user=Swarup113&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Swarup113&theme=dark&hide_border=false&layout=compact&cache_seconds=86400)
 
 ### GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Swarup113&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Swarup113&theme=flat&no-frame=true&margin-w=5&row=1)
 
 ### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Swarup113&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Swarup113&repo=NeuroTab&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Swarup113&repo=Nudge&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Swarup113&repo=Bangladeshi-Classic-Game-Hub&theme=dark" />
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=Swarup113&icon=0&color=0)](https://visitcount.itsvg.in)
-
+### Activity Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=Swarup113&theme=github-dark)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
