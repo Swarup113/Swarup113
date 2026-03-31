@@ -2,6 +2,7 @@
 I am a Computer Science researcher specializing in Artificial Intelligence, Deep Learning, and Healthcare Informatics. Currently pursuing an MSc in CSE at CUET, with a BSc from East Delta University. <br>
 I focus on applying AI to healthcare—particularly early disease detection, clinical decision support, and predictive analytics.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white)](https://swarup113.github.io/Portfolio/)
 ---
 
 ### Research Interests & Skills
@@ -51,7 +52,7 @@ Interested in research collaborations and industry applications of AI in healthc
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Swarup-Dewanjee)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=nlgsBIIAAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0004-6092-8473)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white)](https://swarup113.github.io/Portfolio/)
+
 
 ---
 ### Tech Stack:
