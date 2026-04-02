@@ -77,17 +77,27 @@ Interested in research collaborations and industry applications of AI in healthc
   </tr>
 </table>
 
-### Top Contributed Repo
-<table align="center">
-  <tr>
-    <td><img src="https://gh-readme-stats.vercel.app/api/pin/?username=Swarup113&repo=NeuroTab&theme=highcontrast" /></td>
-    <td><img src="https://gh-readme-stats.vercel.app/api/pin/?username=Swarup113&repo=Nudge&theme=highcontrast" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://gh-readme-stats.vercel.app/api/pin/?username=Swarup113&repo=kover&theme=highcontrast" /></td>
-    <td><img src="https://gh-readme-stats.vercel.app/api/pin/?username=Swarup113&repo=Bangladeshi-Classic-Games-Hub&theme=highcontrast" /></td>
-  </tr>
-</table>
+<h3 align="center"> Featured Projects</h3>
+
+<div align="center">
+
+<a href="https://huggingface.co/spaces/dewanjee/NeuroTab" target="_blank">
+  <img src="https://gh-readme-stats.vercel.app/api/pin/?username=Swarup113&repo=NeuroTab&theme=highcontrast" />
+</a>
+
+<a href="https://swarup113.github.io/Nudge/" target="_blank">
+  <img src="https://gh-readme-stats.vercel.app/api/pin/?username=Swarup113&repo=Nudge&theme=highcontrast" />
+</a>
+
+<a href="https://swarup113.github.io/kover/" target="_blank">
+  <img src="https://gh-readme-stats.vercel.app/api/pin/?username=Swarup113&repo=kover&theme=highcontrast" />
+</a>
+
+<a href="https://swarup113.github.io/Bangladeshi-Classic-Games-Hub/" target="_blank">
+  <img src="https://gh-readme-stats.vercel.app/api/pin/?username=Swarup113&repo=Bangladeshi-Classic-Games-Hub&theme=highcontrast" />
+</a>
+
+</div>
 
 ### Activity Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Swarup113&bg_color=000000&color=ffffff&line=fbff00&point=ffffff&area=true&hide_border=false&border_color=ffffff)
