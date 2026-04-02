@@ -84,7 +84,7 @@ Interested in research collaborations and industry applications of AI in healthc
   </tr>
   <tr>
     <td><img src="https://gh-readme-stats.vercel.app/api/pin/?username=Swarup113&repo=kover&theme=highcontrast" /></td>
-    <td><img src="https://gh-readme-stats.vercel.app/api/pin/?username=Swarup113&repo=Bangladeshi-Classic-Game-Hub&theme=highcontrast" /></td>
+    <td><img src="https://gh-readme-stats.vercel.app/api/pin/?username=Swarup113&repo=Bangladeshi-Classic-Games-Hub&theme=highcontrast" /></td>
   </tr>
 </table>
 
