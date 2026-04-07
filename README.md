@@ -2,7 +2,7 @@
 I am a Computer Science researcher specializing in Artificial Intelligence, Deep Learning, and Healthcare Informatics. Currently pursuing an MSc in CSE at CUET, with a BSc from East Delta University. <br>
 I focus on applying AI to healthcare—particularly early disease detection, clinical decision support, and predictive analytics.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white)](https://swarup113.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white)](https://swarup113.github.io/Portfolio)
 ---
 
 ### Research Interests & Skills
