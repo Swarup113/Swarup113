@@ -85,6 +85,14 @@ Interested in research collaborations and industry applications of AI in healthc
   <img src="https://gh-readme-stats.vercel.app/api/pin/?username=Swarup113&repo=NeuroTab&theme=highcontrast" />
 </a>
 
+<a href="https://swarup113.github.io/OmniViz/" target="_blank">
+  <img src="https://gh-readme-stats.vercel.app/api/pin/?username=Swarup113&repo=OmniViz&theme=highcontrast" />
+</a>
+
+<a href="https://watchsync.up.railway.app" target="_blank">
+  <img src="https://gh-readme-stats.vercel.app/api/pin/?username=Swarup113&repo=WatchSync&theme=highcontrast" />
+</a>
+
 <a href="https://swarup113.github.io/Nudge/" target="_blank">
   <img src="https://gh-readme-stats.vercel.app/api/pin/?username=Swarup113&repo=Nudge&theme=highcontrast" />
 </a>
