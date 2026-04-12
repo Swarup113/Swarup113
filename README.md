@@ -97,8 +97,8 @@ Interested in research collaborations and industry applications of AI in healthc
   <img src="https://gh-readme-stats.vercel.app/api/pin/?username=Swarup113&repo=Nudge&theme=highcontrast" />
 </a>
 
-<a href="https://swarup113.github.io/kover/" target="_blank">
-  <img src="https://gh-readme-stats.vercel.app/api/pin/?username=Swarup113&repo=kover&theme=highcontrast" />
+<a href="https://swarup113.github.io/MediQoPlus/" target="_blank">
+  <img src="https://gh-readme-stats.vercel.app/api/pin/?username=Swarup113&repo=MediQoPlus&theme=highcontrast" />
 </a>
 
 <a href="https://swarup113.github.io/Bangladeshi-Classic-Games-Hub/" target="_blank">
