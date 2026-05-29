@@ -1,6 +1,5 @@
-## About Me
-I am a Computer Science researcher specializing in Artificial Intelligence, Deep Learning, and Healthcare Informatics. Currently pursuing an MSc in CSE at CUET, with a BSc from East Delta University. <br>
-I focus on applying AI to healthcare—particularly early disease detection, clinical decision support, and predictive analytics.
+## About 
+Swarup Dewanjee is currently pursuing his Master’s degree in Computer Science and Engineering at Chittagong University of Engineering and Technology (CUET). He holds a Bachelor’s degree in Computer Science and Engineering from East Delta University (EDU). His research focuses on Artificial Intelligence in Healthcare, with a particular emphasis on leveraging AI for the early diagnosis of critical medical conditions. His interests include Bio-Informatics, Medical imaging, HCI, and NLP. He also works on real-world projects involving ML/DL-integrated web tools and decision support systems, alongside the development of web applications, websites, mobile apps, and IoT-based solutions.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white)](https://swarup113.github.io/Portfolio)
 ---
